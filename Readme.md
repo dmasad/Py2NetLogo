@@ -1,3 +1,5 @@
+**Note:** This tool isn't being actively maintained; for a more up-to-date implementation, check out [NL4Py](https://github.com/chathika/NL4Py)
+
 ## Py2NetLogo
 
 A hacked-together interface for controlling [NetLogo](https://ccl.northwestern.edu/netlogo/) from Python, using [Py4J](py4j.sourceforge.net/). Inspired by [RNetLogo](http://cran.r-project.org/web/packages/RNetLogo/index.html). 
